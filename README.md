@@ -45,8 +45,9 @@
 
 ## 📫 How to Reach Me
 
-- **Email**: [youremail@example.com] (replace with your email)  
-- **LinkedIn / Twitter / Others**: (links, if you want to share)  
+- [LinkedIn](https://www.linkedin.com/in/yugagarwal005/)
+- [Email](mailto:imyug2005@gmail.com)
+
 - Feel free to connect — I’m always open to chats about tech, projects, or ideas
 
 ---
